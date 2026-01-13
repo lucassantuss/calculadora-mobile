@@ -1,2 +1,2 @@
-# Calculadora Mobile
-Atividade da matéria de Programação Mobile da Faculdade Engenheiro Salvador Arena no 10° Semestre
+# Mobile Calculator
+Activity for the Mobile Programming course at Faculdade Engenheiro Salvador Arena in the 10th semester
